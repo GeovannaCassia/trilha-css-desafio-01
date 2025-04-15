@@ -10,4 +10,4 @@ Neste desafio, repliquei uma landing page da DIO, aplicando conhecimentos relaci
 ## 📽️Demostração
 ![demo(2).gif](./demo%20(2).gif)
 
-## 🔗Acesse aqui
+## 🔗[Acesse aqui](https://geovannacassia.github.io/trilha-css-desafio-01/)
